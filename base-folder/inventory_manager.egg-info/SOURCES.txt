@@ -1,0 +1,10 @@
+README.md
+setup.py
+inventory_manager.egg-info/PKG-INFO
+inventory_manager.egg-info/SOURCES.txt
+inventory_manager.egg-info/dependency_links.txt
+inventory_manager.egg-info/top_level.txt
+libname/__init__.py
+libname/inventory_manager.py
+libname/part.py
+libname/transaction.py

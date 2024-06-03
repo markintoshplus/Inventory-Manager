@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: inventory-manager
+Version: 0.0.1
+Summary: A basic inventory manager package
+Author: Markintosh (Mark Cedrick De Vera)
+Author-email: <devera.markcedrick@gmail.com>
+Keywords: python,inventory,manager
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
